@@ -1,0 +1,9 @@
+{
+  "name": "gitmisi/intententionaware",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "GitMisi\\IntententionWare\\": "src/"
+    }
+  }
+}
